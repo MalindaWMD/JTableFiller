@@ -41,6 +41,3 @@ Sample usage,
     ![Imgur](http://i.imgur.com/CXrFHCP.png)
     
     Thats it.
-    
-Download `JTableFiller.jar`
-    
