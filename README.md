@@ -1,4 +1,4 @@
-#### JTableFiller
+## JTableFiller
 A simple library to fill your JTables fast.
 
 Sample usage,
