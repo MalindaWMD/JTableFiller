@@ -4,17 +4,17 @@ A simple library to fill your JTables fast.
 Sample usage,
 -  Add library
 -  Add a JTable to your frame
-- Call `fillTable([ResultSet],[JTable model],[Column names],[Column indices]);` method
+-  Call `fillTable([ResultSet],[JTable model],[Column names],[Column indices]);` method
 
 ```
 	ResultSet rs = ...;
-    JTableFiller filler = new JTableFiller();
+   	JTableFiller filler = new JTableFiller();
 	filler.filTable(rs,[JTable.getModel],null, null);
 ```
 
 ![Imgur](http://i.imgur.com/nOCqbvN.png)
 
-- ##### Fill with custom column names
+- #### Fill with custom column names
 
 ```
 	ResultSet rs = ...;
@@ -25,7 +25,7 @@ Sample usage,
 
 ![Image](http://i.imgur.com/Ta3nOiR.png)
 
-- ##### Fill with custom column index
+- #### Fill with custom column index
 
 ```
 	ResultSet rs = ...;
@@ -36,7 +36,7 @@ Sample usage,
 
 ![Imgur](http://i.imgur.com/hWPchww.png)
 
-- ##### Fill with custom column names and indices
+- #### Fill with custom column names and indices
 
 ```
 	ResultSet rs = ...;
