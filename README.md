@@ -1,5 +1,6 @@
 ## JTableFiller
 A simple library to fill your JTables fast.
+[https://malindawmd.github.io/JTableFiller/](http://https://malindawmd.github.io/JTableFiller/)
 
 Sample usage,
 -  Add library
